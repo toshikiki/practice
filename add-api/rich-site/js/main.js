@@ -201,7 +201,7 @@ initParallax();
 
 
 // Flickr API key
-const apiKey = 'd12bd011e02f6ef3503814ef42007db5';
+const apiKey = '';
 
 // Flickr画像データのURLを返す
 const getFlickrImageURL = (photo, size) => {
